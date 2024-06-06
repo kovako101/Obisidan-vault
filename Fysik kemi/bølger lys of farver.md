@@ -1,0 +1,21 @@
+#fysik-kemi 
+- Lydbølger er længdebølger og lys går tværbølger
+- I forhold til hvordan bølger rammer hindanden kan de forstærke eller svække hindanden
+- konstruktiv interferens forstærker andre bølger
+- destruktiv interferens svækker andre bølger
+- bølgelængde er fra bølgetop/bund til bølgetop/bund og angives i meter
+- amplitude er energimængden i bølgerne og måles i lysstyrke
+- frekvens er antal svingninger i sekundet og angives i hertz
+- hvis en linse vender indad vil den sprede lasere (konveks)
+- hvis en linse vender udad vil den samle lasere (konkav)
+- indgangsvinkel er det samme som udgangs vinklen
+- total reflektion er ting som spejl
+- vinduer er ikke total reflektion
+- sollys bliver brudt 42 grader fra en regndråbe for at se en regnbue
+- en regnbue starter med rød og går ned til violet
+- solen skal altid være bag dig for at kunne se en regnbue
+- en regnbue er altid rund
+- Subtraktiv farveblanding alle farver tilsammen bliver sorte (CMY)
+- additiv farveblanding alle farver tilsammen bliver til hvid (RGB)
+- når man tilsætter mælk og det ikke er belyst så vil den f
+  *qAå en mørk farve

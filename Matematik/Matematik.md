@@ -1,0 +1,10 @@
+#fag
+[[ligninger]]
+[[statestik og sandsynlighed]]
+[[matematikkens sprog]]
+[[berømte matematikere]]
+[[tal]]
+[[pythagoras]]
+[[trigonomitri]]
+[[funktioner]]
+[[læs matematik]]
