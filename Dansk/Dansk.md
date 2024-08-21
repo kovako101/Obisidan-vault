@@ -14,3 +14,5 @@
 [[skæbnemageren]]
 [[Skriftlig dansk]]
 [[romantikken]]
+[[synopse]]
+[[Tove ditlevsen]]

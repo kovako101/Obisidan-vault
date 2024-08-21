@@ -51,3 +51,6 @@
 - im vierzig Tage
 - am folgenden Tag
 - tag 
+
+
+[[alltag powerpoint]]

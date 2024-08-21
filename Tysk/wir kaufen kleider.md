@@ -1,0 +1,32 @@
+#tysk 
+## s 26- 27
+- der pulli | en trøje | pullover
+- der sweatshirt | en sweatshirt
+- die strickjacke | en striktrøje |
+- die krawatte | et slips
+- die badehose | badebukser
+- der badeanzug | badedragt
+- der bikini | en bikini
+- der mantel | kjole 
+- der anzug | lommer
+- das sakko | en skjorte
+- die jacke | en jakke
+- die hose | nogle bukser
+- der gürtel | et belte
+- der rock | nederdel
+- das kleid | en kjole
+- das hemd | en krave
+- das T-Shirt | en T-Shirt
+- das top | en top
+- die bluse | en bluse
+- die unterhose | underbukser
+- der slip  | trusser
+- der BH | BH
+- die strumpfhose | strømpebukser
+- der pyjama | pyjamas
+- die mütze | weird hat
+- der hut | en hat
+- der schal | scarf
+- der jogginganzug | joggingbukser
+- faushandschuhe | luffer
+- handschue | handsker

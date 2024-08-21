@@ -25,7 +25,48 @@
 - mindre kriminalitet
 
 ### noter til teksten 
-- Der er 3 modeller til hvordan man betaler for noget. Den universelle model (alle betaler skat). Forsikringsmodellen (man betaler gennem forsikring). Den liberale model (man betaler selv).
+- Der er 3 modeller til hvordan man betaler for noget. Den universelle model (alle betaler skat). Forsikringsmodellen (man betaler gennem forsikring). Den liberale model (man betaler selv hænger tit sammen med Forsikringsmodellen).
 - I nogle lande skal man få en forsikring hvis man har arbejde
 - liberale vil have at mennesker skal gøre ting selv 
 - socialister vil gerne have mere skat 
+
+![[Pasted image 20240610083744.png]]
+
+- mange fabrikker flytter til udlandet for at få billigere priser som stresser velfærdsamfundet
+- mange folk vil kun betale for det de selv bruger og kan ikke sætte sig ind i at andre hor brug for noget de ikke har
+- hvis folk ikke gider at hjælpe længere kan det være at flere arbejder for private områder fordi det er der de får flest penge
+
+- Den offenlige sektor er ting som hospitaler
+- Den finansiel sektor er banken
+- Virksomheder er private fordi staten ikke eger den
+- Husholdninger er normale forbrugere og familier
+- Udland er når man har om eksport og import i andre lande
+![[Pasted image 20240617082734.png]]
+- De 4 i firkanten bliver det til det lille økonomi kredsløb
+- Det hele er det store økonomi kredsløb
+
+
+#### nøglebegreber globalisering
+1. Arbejdskraft (hvor meget arbejde man kan udøve/hvor mange mennseker som kan udøve det)
+2. producere (laver ting)
+3. Globalisering (at virksomheder flytter til andre dele af verden)
+4. Arbejdsløshed (at man mister sit arbejde)
+5. mindstlønnede (man får så lidt løn som muligt)
+6. løn (penge man får for at arbejde)
+7. outsource (at en virksomhed får andre folk til at gøre arbejdet for dem)
+8. virksomhedsskatter (Den skat som virksomheder betaler)
+9. billigere (at det ikke koster lige så meget)
+10. konkurrenceevne
+11. ufaglærte
+
+
+##### nøglebegreber Individualisering 
+1. individualisering (når man løsriver sig fra familie og samfundet)
+2. benytter (når man bruger noget)
+3. ressourcer (ting man bruger til at lave andre ting)
+4. samfundet (en masse folk som har noget tilfælles)
+5. velfærdsydelser
+6. skattekroner
+7. solidaritet
+8. overførselsindkomst
+9. sundheds systemet

@@ -1,0 +1,12 @@
+#fag
+[[oversætnigner]]
+[[der sprung]]
+[[kleider]]
+[[navneord tysk]]
+[[tiere sind toll]]
+[[wir kaufen kleider]]
+[[altag]]
+[[die schule]]
+[[hier wohne ich]]
+[[sport]]
+[[Typisch deutch]]

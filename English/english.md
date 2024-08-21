@@ -12,3 +12,5 @@
 [[The american dream]]
 [[serial killers]]
 [[outlines]]
+[[minoraties]]
+[[dreams and identity]]

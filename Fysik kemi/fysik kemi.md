@@ -11,7 +11,7 @@
 [[enzymer og katalysatorer]]
 [[We grow]]
 [[bølger lys of farver]]
-
+[[atomer of isotoper]]
 
 
 
