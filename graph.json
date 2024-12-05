@@ -1,0 +1,128 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:fag",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:dansk",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:matematik",
+      "color": {
+        "a": 1,
+        "rgb": 25343
+      }
+    },
+    {
+      "query": "tag:Fysik-Kemi",
+      "color": {
+        "a": 1,
+        "rgb": 12075688
+      }
+    },
+    {
+      "query": "tag:biologi",
+      "color": {
+        "a": 1,
+        "rgb": 65310
+      }
+    },
+    {
+      "query": "tag:tysk",
+      "color": {
+        "a": 1,
+        "rgb": 10382187
+      }
+    },
+    {
+      "query": "tag:historie",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    },
+    {
+      "query": "tag:english",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "tag:center",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:geografi",
+      "color": {
+        "a": 1,
+        "rgb": 10025949
+      }
+    },
+    {
+      "query": "tag:FFF",
+      "color": {
+        "a": 1,
+        "rgb": 2556016
+      }
+    },
+    {
+      "query": "tag:samfundsfag",
+      "color": {
+        "a": 1,
+        "rgb": 6946979
+      }
+    },
+    {
+      "query": "tag:kristendom",
+      "color": {
+        "a": 1,
+        "rgb": 4085310
+      }
+    },
+    {
+      "query": "tag:HDS",
+      "color": {
+        "a": 1,
+        "rgb": 3356726
+      }
+    },
+    {
+      "query": "tag:misc",
+      "color": {
+        "a": 1,
+        "rgb": 4216932
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.60572916666667,
+  "lineSizeMultiplier": 0.508333333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.708333333333333,
+  "repelStrength": 9.89583333333333,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.4226358782313098,
+  "close": true
+}
